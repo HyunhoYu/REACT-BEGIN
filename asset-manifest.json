@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": ".https://hyunhoyu.github.io/REACT-BEGIN/static/js/main.13a4fbf6.js",
-    "index.html": ".https://hyunhoyu.github.io/REACT-BEGIN/index.html",
-    "main.13a4fbf6.js.map": ".https://hyunhoyu.github.io/REACT-BEGIN/static/js/main.13a4fbf6.js.map"
+    "main.js": "/REACT-BEGIN/static/js/main.0a308e19.js",
+    "index.html": "/REACT-BEGIN/index.html",
+    "main.0a308e19.js.map": "/REACT-BEGIN/static/js/main.0a308e19.js.map"
   },
   "entrypoints": [
-    "static/js/main.13a4fbf6.js"
+    "static/js/main.0a308e19.js"
   ]
 }
